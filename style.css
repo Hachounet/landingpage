@@ -58,6 +58,13 @@ body {
     flex-direction: column;
 }
 
+.awesomecontent h1 {
+
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
 .awesomeimage {
     width: 300px 600px;
 }
