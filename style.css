@@ -52,7 +52,7 @@ body {
     justify-content: center;
     gap: 64px;
     background-color: #1f2937;
-    padding: 150px;
+    padding: 150px 75px;
 }
 
 .awesomecontent {
