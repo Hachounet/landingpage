@@ -16,6 +16,7 @@ body {
     display: flex;
     background-color: #1f2937;
     padding: 12px 150px;
+    align-items: center;
 }
 
 .headerlogo {
