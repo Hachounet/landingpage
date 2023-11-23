@@ -80,6 +80,12 @@ body {
     color: #E5E7EB;
 }
 
+.awesomecontent button {
+    background-color: #3882F6;
+    color: white;
+    border-radius: 25%;
+    align-self: flex-start;
+}
 .awesomeimage {
     width: 500px;
     height: 300px;
