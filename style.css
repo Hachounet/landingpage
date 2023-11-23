@@ -35,6 +35,12 @@ body {
     list-style: none;
 }
 
+.headermenu ul li {
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
+}
+
 .awesomecontainer {
 
     display: flex;
