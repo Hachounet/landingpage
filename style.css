@@ -94,10 +94,15 @@ body {
 .awesomeimage {
     width: 500px;
     height: 200px;
-    background-color: bisque;
+    background-color: grey;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.awesomeimagetext {
+
+    color: white;
 }
 
 
@@ -206,10 +211,11 @@ body {
     
 
     background-color: #3882F6;
-    border-radius: 10%;
+    border-radius: 25px;
+    padding: 32px 64px;
     display: flex;
-    justify-content: space-between;
     align-items: center;
+    gap: 330px;
 
 }
 
@@ -220,9 +226,32 @@ body {
 
 }
 
+.actionbluecontainertext h3 {
+
+    color: white;
+}
+
+.actionbluecontainertext p {
+
+    color: #E5E7EB;
+}
+
 .footer {
     display: flex;
     justify-content: center;
     align-items: center;
     background-color: #1f2937;
+    color: white;
+    padding: 32px 0px;
+}
+
+.button {
+
+    display: flex;
+    background-color: #3882F6;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 32px;
+    border-radius: 15px;
 }
