@@ -77,3 +77,10 @@ body {
     align-items: center;
 
 }
+
+.actionbluecontainertext {
+
+    display: flex;
+    flex-direction: column;
+
+}
