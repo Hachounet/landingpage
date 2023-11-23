@@ -103,8 +103,10 @@ body {
 .randomcontainer {
 
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     flex-wrap: wrap;
+    justify-content: center;
+    padding: 24px 0px;
 }
 
 .randomh2 {
