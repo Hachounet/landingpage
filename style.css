@@ -24,3 +24,25 @@ body {
 .headermenu ul {
     display: flex;
 }
+
+.awesomecontainer {
+
+    display: flex;
+    align-items: center;
+}
+
+.awesomecontent {
+
+    display: flex;
+    flex-direction: column;
+}
+
+.awesomeimage {
+    width: 300px 600px;
+}
+
+.randomcontainer {
+
+    display: flex;
+    flex-direction: column;
+}
