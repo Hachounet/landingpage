@@ -27,6 +27,7 @@ body {
 .headermenu {
 
     display: flex;
+    margin-left: auto;
 }
 
 .headermenu ul {
