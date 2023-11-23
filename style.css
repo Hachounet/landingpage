@@ -52,16 +52,17 @@ body {
     justify-content: center;
     gap: 64px;
     background-color: #1f2937;
-    padding: 200px;
+    padding: 150px;
 }
 
 .awesomecontent {
 
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     flex: 1 1 auto;
     flex-wrap: wrap;
     max-width: 500px ;
+    height: 200px;
 }
 
 .awesomecontent h1 {
@@ -83,12 +84,13 @@ body {
 .awesomecontent button {
     background-color: #3882F6;
     color: white;
-    border-radius: 25%;
+    border-radius: 15%;
     align-self: flex-start;
+    padding: 6px 16px;
 }
 .awesomeimage {
     width: 500px;
-    height: 300px;
+    height: 200px;
     background-color: bisque;
     display: flex;
     justify-content: center;
