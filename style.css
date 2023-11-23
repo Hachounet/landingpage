@@ -67,6 +67,9 @@ body {
     font-size: 48px;
     font-weight: 900;
     color: #f9faf8;
+    flex: 1 1 auto;
+    flex-wrap: wrap;
+    width: 350px;
 }
 
 .awesomecontent p {
