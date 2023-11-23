@@ -103,22 +103,57 @@ body {
 .randomcontainer {
 
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     flex-wrap: wrap;
     justify-content: center;
+    align-items: center;
     padding: 24px 0px;
 }
 
 .randomh2 {
 
     font-size: 36px;
-    font-size: 900;
+    font-size: larger;
     color: #1f2937;
 }
 
 .randomgallery {
     display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 16px;
+}
+
+.randomimage {
+
+    flex: 1 1 auto;
+    overflow: hidden;
+
+}
+
+.randomimagetext {
+    
+    display: flex;
     flex-direction: column;
+    justify-content: center;
+
+
+}
+
+
+.randomimage img {
+
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+
+.randomtext {
+
+    flex: 1 1 auto;
+    flex-wrap: wrap;
+    max-width: 150px;
+    text-align: center;
 }
 
 .inspiringcontainer {
