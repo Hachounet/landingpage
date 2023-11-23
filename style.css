@@ -166,11 +166,11 @@ body {
     background-color: #E5E7EB ;
     justify-content: center;
     align-items: center;
+    padding: 64px 0;
 }
 
 .blockandcite {
-
-
+    width: 44%;
 }
 
 .inspiringcontainer blockquote {
@@ -178,12 +178,17 @@ body {
     font-weight: lighter;
     font-style: italic;
     color: #1f2937;
-    flex: 1 1 auto;
+    font-size: 36px;
 }
 
 .inspiringcontainer cite {
 
+    display: block;
     text-align: right;
+    font-style: normal;
+    font-size: larger;
+    font-weight: 600;
+
 }
 
 
