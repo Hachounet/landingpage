@@ -8,6 +8,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    font-family: 'Roboto', sans-serif;
 }
 
 .header {
@@ -21,8 +22,7 @@ body {
 .headerlogo {
     font-size: 24px;
     color: #f9faf8;
-    font-family: 'Roboto', sans-serif;
-    ;
+    
 }
 
 .headermenu {
