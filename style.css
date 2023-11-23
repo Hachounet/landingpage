@@ -17,6 +17,11 @@ body {
     background-color: #1f2937;
 }
 
+.headerlogo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
 .headermenu {
 
     display: flex;
