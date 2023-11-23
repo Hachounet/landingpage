@@ -15,7 +15,7 @@ body {
 
     display: flex;
     background-color: #1f2937;
-    padding: 12px 150px;
+    padding: 12px 380px;
     align-items: center;
 }
 
@@ -51,10 +51,10 @@ body {
 
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: space-between;
     gap: 64px;
     background-color: #1f2937;
-    padding: 150px 75px;
+    padding: 150px 380px;
 }
 
 .awesomecontent {
