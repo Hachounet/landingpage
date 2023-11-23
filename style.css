@@ -199,6 +199,7 @@ body {
     align-items: center;
     flex-wrap: wrap;
     box-sizing: border-box;
+    padding: 128px 0px;
 }
 
 .actionbluecontainer {
