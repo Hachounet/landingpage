@@ -20,3 +20,7 @@ body {
 
     display: flex;
 }
+
+.headermenu ul {
+    display: flex;
+}
