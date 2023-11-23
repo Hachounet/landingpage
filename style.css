@@ -164,9 +164,10 @@ body {
 
     display: flex;
     background-color: #E5E7EB ;
+    padding-top: 64px;
 }
 
-.inspiringcontainer p {
+.inspiringcontainer blockquote {
 
     font-size: 36px;
     font-weight: lighter;
